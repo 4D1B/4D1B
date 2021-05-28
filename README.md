@@ -1,11 +1,18 @@
-### Hi there 👋
+### Hi there This is Syed Shah MD Adib, Currently Working as a software Developer 👋
+
+- 🔭 I’m currently working on Java And C#
+- 🌱 I’m currently learning ASP.NET frameworks 
+- 👯 I’m looking to collaborate on open source innovative projects
+- 💬 Ask me about anything if you may want
+- 📫 How to reach me: Email : syedshahmdadib2@gmail.com
+- ⚡ Fun fact: I won't tell you.
 
 <!--
 **4D1B/4D1B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
