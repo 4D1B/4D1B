@@ -1,6 +1,7 @@
-### Hi there This is Syed Shah MD Adib, Currently Working as a software Developer 👋
+### Hi there This is Syed Shah MD Adib, Currently Working as a software Developer - Not much active on this profile due to my projects being handled privately for work purposes 👋
 
 - 🔭 I’m currently working with Spring Boot - JPA - ANGULAR - POSTGRES - MS SQL 
+- 🌱 Successfully completed crowd-funding platform named Ekdesh (www.ekdesh.gov.bd) as an E-Government solutions for Digital Bangladesh, contributed in Payment gateway System named Ekpay. Currently active in working for Tax return Submission project for National Board of Revenue , Bangladesh. 
 - 🌱 I’m currently learning Micro-Services and Other stacks
 - 👯 I’m looking to collaborate on open source innovative projects
 - 💬 Ask me about anything if you may want
