@@ -1,7 +1,7 @@
 ### Hi there This is Syed Shah MD Adib, Currently Working as a software Developer 👋
 
-- 🔭 I’m currently working on Java And C#
-- 🌱 I’m currently learning ASP.NET frameworks 
+- 🔭 I’m currently working with Spring Boot - JPA - ANGULAR - POSTGRES - MS SQL 
+- 🌱 I’m currently learning Micro-Services and Other stacks
 - 👯 I’m looking to collaborate on open source innovative projects
 - 💬 Ask me about anything if you may want
 - 📫 How to reach me: Email : syedshahmdadib2@gmail.com
